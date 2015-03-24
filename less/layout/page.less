@@ -1,0 +1,40 @@
+/*
+ * Copyright © SoftLayer, an IBM Company
+ *
+ * page.less
+ * Hatch's page layout. A page's header properties should always be defined in page.less. This
+ * prevents issues arrising from conflicting properties. Here, you can edit or add new page properties.
+ *
+ */
+
+.page {
+  margin: 0;
+  line-height: @line-height-small;
+  color: @gray10;
+
+  &.page-title {
+    font-size: (@font-size-normal * 2.5); /* 40px */
+    font-weight: @font-weight-light;
+    letter-spacing: @letter-spacing-small;
+  }
+
+  &.page-tagline {
+    margin-bottom: 30px;
+    font-size: @font-size-xlarge; /* 22px */
+    font-weight: @font-weight-bold;
+  }
+}
+
+/* =========================
+   Container
+   ========================= */
+
+.page-container {
+  padding-top: 112px;
+  padding-bottom: 37px;
+
+  @media (min-width: @view-small) {
+    padding-top: 160px;
+    padding-bottom: 50px;
+  }
+}

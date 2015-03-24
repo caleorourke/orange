@@ -1,0 +1,250 @@
+/*
+ * Code
+ *
+ * Copyright © SoftLayer, an IBM Company
+ * Code and documentation licensed under MIT
+ *
+ */
+
+output,
+samp,
+code,
+pre {
+  font-family: @font-family-monospace;
+  letter-spacing: -.005em;
+}
+
+output,
+samp {
+  color: @gray20;
+}
+
+pre {
+  color: @gray10;
+}
+
+code {
+  color: @red;
+}
+
+output,
+samp,
+pre {
+  font-size: (@font-size-normal * .875); /* ~14px */
+}
+
+code {
+  font-size: (@font-size-normal * .835); /* ~13.5px */
+}
+
+/* =========================
+   Sample
+   ========================= */
+
+samp {
+  padding: 0 1px;
+  word-wrap: break-word;
+  white-space: inherit;
+
+  @media (min-width: @view-medium) {
+    word-wrap: normal;
+    white-space: nowrap;
+  }
+}
+
+/* =========================
+   Output
+   ========================= */
+
+output {
+  padding: 0 15px;
+  margin: -15px 0 20px;
+  overflow: auto;
+  line-height: @line-height-medium;
+  word-break: break-all;
+  word-wrap: normal;
+  white-space: pre;
+}
+
+/* =========================
+   Code
+   ========================= */
+
+code {
+  padding: 1.5px 5px;
+  word-wrap: break-word;
+  white-space: inherit;
+  background-color: @white;
+  border: 1px solid rgba(0,0,0,.09);
+  border-radius: @border-radius-small;
+
+  @media (min-width: @view-medium) {
+    word-wrap: normal;
+    white-space: nowrap;
+  }
+}
+
+/* =========================
+   Pre
+   ========================= */
+
+pre {
+  padding: 15px;
+  margin: 15px 0 20px;
+  line-height: @line-height-normal;
+  word-break: break-all;
+  word-wrap: normal;
+  background-color: @white;
+  border: 1px solid @gray70;
+  border-left: 24px solid @gray60;
+  border-radius: @border-radius-normal;
+
+  code {
+    padding: 0;
+    font-size: inherit;
+    color: inherit;
+    white-space: pre;
+    background-color: transparent;
+    border: none;
+  }
+}
+
+/* =========================
+   Highlights
+   ========================= */
+
+.hljs-comment {
+  color: #989698;
+}
+
+.hljs-javadoc {
+  color: #a00;
+}
+
+.hljs-keyword,
+.method,
+.hljs-list .hljs-keyword,
+.nginx .hljs-title,
+.hljs-tag .hljs-title,
+.setting .hljs-value,
+.hljs-winutils,
+.tex .hljs-command,
+.http .hljs-title,
+.hljs-request,
+.hljs-status {
+  color: #120a8f;
+}
+
+.hljs-envvar,
+.tex .hljs-special {
+  color: #660;
+}
+
+.hljs-string,
+.hljs-tag .hljs-value,
+.hljs-cdata,
+.hljs-filter .hljs-argument,
+.hljs-attr_selector,
+.apache .hljs-cbracket,
+.hljs-date,
+.hljs-regexp,
+.coffeescript .hljs-attribute {
+  color: @green; // #080;
+}
+
+.hljs-sub .hljs-identifier,
+.hljs-pi,
+.hljs-tag,
+.hljs-tag .hljs-keyword,
+.hljs-decorator,
+.ini .hljs-title,
+.hljs-shebang,
+.hljs-prompt,
+.hljs-hexcolor,
+.hljs-rules .hljs-value,
+.hljs-literal,
+.hljs-symbol,
+.ruby .hljs-symbol .hljs-string,
+.hljs-number,
+.css .hljs-function,
+.clojure .hljs-attribute {
+  color: @magenta; // #066;
+}
+
+.hljs-class .hljs-title,
+.smalltalk .hljs-class,
+.hljs-javadoctag,
+.hljs-yardoctag,
+.hljs-phpdoc,
+.hljs-dartdoc,
+.hljs-type,
+.hljs-typename,
+.hljs-tag .hljs-attribute,
+.hljs-doctype,
+.hljs-class .hljs-id,
+.hljs-built_in,
+.setting,
+.hljs-params,
+.hljs-variable {
+  color: @purple; // #606;
+}
+
+.css .hljs-tag,
+.hljs-rules .hljs-property,
+.hljs-pseudo,
+.hljs-subst {
+  color: @gray20;
+}
+
+.css .hljs-class,
+.css .hljs-id {
+  color: #9b703f;
+}
+
+.hljs-value .hljs-important {
+  color: #f70;
+  font-weight: bold;
+}
+
+.hljs-rules .hljs-keyword {
+  color: #c5af75;
+}
+
+.hljs-annotation,
+.apache .hljs-sqbracket,
+.nginx .hljs-built_in {
+  color: #9b859d;
+}
+
+.hljs-preprocessor,
+.hljs-preprocessor *,
+.hljs-pragma {
+  color: @gray30;
+}
+
+.tex .hljs-formula {
+  background-color: @gray80;
+  font-style: italic;
+}
+
+.diff .hljs-header,
+.hljs-chunk {
+  color: #808080;
+  font-weight: bold;
+}
+
+.diff .hljs-change {
+  background-color: #bccff9;
+}
+
+.hljs-addition {
+  background-color: #baeeba;
+}
+
+.hljs-deletion {
+  background-color: #ffc8bd;
+}
+
+.hljs-comment .hljs-yardoctag {
+  font-weight: bold;
+}

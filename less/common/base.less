@@ -1,0 +1,76 @@
+/*
+ * Copyright © SoftLayer, an IBM Company
+ *
+ * base.less
+ * Hatch's common base elements. Base properties should always be defined in base.less. This prevents
+ * issues arrising from conflicting properties. Here, you can edit or add new base properties.
+ *
+ */
+
+/* =========================
+   Body
+   ========================= */
+
+body {
+  .antialiased-text();
+  .optimize-text();
+  font-family: @font-family-sans-serif;
+  font-size: @font-size-normal;
+  line-height: @line-height-normal;
+  color: @gray10;
+  background-color: @white;
+
+  &.home {
+    height: 100%;
+    background-color: @gray10;
+  }
+}
+
+/* =========================
+   Paragraph
+   ========================= */
+
+p {
+  margin: 0 0 12px;
+}
+
+/* =========================
+   Links
+   ========================= */
+
+a {
+  .transition-duration(.5s);
+  .transition-property(color);
+  color: @blue;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/* =========================
+   Lists
+   ========================= */
+
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 15px;
+  line-height: @line-height-normal;
+
+  ul,
+  ol,
+  li > p {
+    margin-bottom: 0;
+  }
+}
+
+/* =========================
+   Horizontal Rule
+   ========================= */
+
+hr {
+  width: 100px;
+  margin: 40px auto;
+  clear: both;
+  border-top: 1px solid @gray70;
+}
