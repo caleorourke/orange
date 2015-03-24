@@ -73,7 +73,7 @@ Click on any of the subjects below to start reading.
     {% if node.order != 1 %}
       {% if node.layout == "pages" %}
 
-* [{{node.title}}]({{site.baseurl}}{{node.url}}) --- {{node.intro}}
+* [{{node.title}}]({{site.baseurl}}{{node.url}}) --- {{node.tagline}}
 
       {% endif %}
     {% endif %}
