@@ -36,7 +36,7 @@ At its core, {{site.github.title}} places emphasis on __prototyping__, __balance
 
 ### A Living Charter
 
-Do note that nothing here is set in stone. This as a "living" charter. As we continue to learn more about our industry and ourselves, the {{site.github.name}} will evolve.
+Do note that nothing here is set in stone. This as a "living" charter. As we continue to learn more about our industry and ourselves, the {{site.github.title}} will evolve.
 
 ---
 
