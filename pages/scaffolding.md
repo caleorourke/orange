@@ -1,7 +1,7 @@
 ---
 layout: pages
-heading: Product Scaffolding
-intro: High-level initiatives and objectives for new products.
+title: Scaffolding
+tagline: High-level initiatives and objectives for new products.
 date: Oct 18, 2014
 order: 3
 baseurl: "../../"
@@ -47,11 +47,11 @@ This scaffold is not only a good mental model, it can be weaved into a simple wo
 
 > Watch Simon Sinek's "[Start With Why](http://youtu.be/yLYNU0OOMK4)" talk to learn more about this and the Golden Circle.
 
-## Vision
+### Vision
 
 The vision is a product's true north. It's intended to provide the critical information you must know to start developing your product, which may include rationale and purpose for an idea. Furthermore, _the vision communicates the fundamental "Why?" and acts as a compass for validating future decisions_. A good way to convey a vision is through a [vision document](#vision-document).
 
-## Strategy
+### Strategy
 
 Strategy breaks down a big vision into an implementation plan (strategy) that's built from knowledge of studying existing __analogs/antilogs__, as well as having conversations among team members, stakeholders, advisors, and even customers. It ultimately elicits buy-in by providing some form of justification. Think of it as the "How?" for your idea.
 
@@ -59,7 +59,7 @@ Three good ways of writing a strategy include the [Business Case](#business-case
 
 > "Analogs" are successful products built from an idea. "Antilogs" are successful products built from an idea and eventually failed. As an example, an analog for the iPod would be the Walkman, and its antilog would be Napster.
 
-## Product
+### Product
 
 _Product is where strategy transforms into the tactical work that's required to make something tangible_. Think of it as the "What?". This is usually where the [bulk of your documentation](#requirements) gets created.
 
@@ -69,7 +69,7 @@ _Product is where strategy transforms into the tactical work that's required to 
 
 From a drawing on a napkin, to a wireframe, to a paper prototype, to product requirements, documents not only play a critical role in the evolution of a product, they provide the substances to justify, understand, build, maintain, support, and much more.
 
-## Vision Document
+### Vision Document
 
 A vision document captures the essence of an envisaged solution in the form of high-level requirements and constraints. This gives stakeholders and team members a non-functional overview. It also provides input for initiating a project and is, therefore, closely related to a business case.
 
@@ -82,7 +82,7 @@ A well-written vision document generally contains:
 * Limitations
 * Critical Success Factors
 
-## Business Case
+### Business Case
 
 A business case includes information about the business goals and how they align with your vision. A well-documented business case includes:
 
@@ -92,7 +92,7 @@ A business case includes information about the business goals and how they align
 * Risks
 * Go-to-Market Strategy
 
-## Product Definition
+### Product Definition
 
 The product definition is a blended set of features, specifications, deliverables, and artifacts related to a new product offering. Some content is tooled specifically for different business units, and some content is inclusive to everybody. A well-documented product definition includes:
 
@@ -105,7 +105,7 @@ The product definition is a blended set of features, specifications, deliverable
 * Milestones
 * Constraints
 
-## Strategic Roadmap
+### Strategic Roadmap
 
 Typically paired with a Product or Application Portfolio, the strategic roadmap forecasts where your product will strike your marketspace, shows how it coincides with your __investments__, and where it fit in your __product catalog__. Use it to map out fluid milestones for new product releases, as a calendar for scheduled projects, or as a backlog for pending projects. But don't forget the most important reason for providing a roadmap: to give everyone insight into your long-term plans.
 
@@ -122,7 +122,9 @@ See the example below.
 
 > Learn why defining investments help [allocate the right amount of effort](#investments) year-to-year.
 
-## Requirements
+---
+
+# Requirements
 
 A great primer for defining your product all depends on the team. While you were peeling away the top layers of the Product Scaffold, you probably consulted a number of your peers for their expertise. Now that you've reached the Product layer, your peers have more skin in the game. As such, each person should contribute their work using a format that's suitable for their responsibilities.
 
@@ -130,7 +132,6 @@ Most teams typically include (in alphabetical order):
 
 * [Engineers](#engineers)
 * [Product Architects](#architects)
-* [Product Designers](#product-designers)
 * [Product Managers](#product-managers)
 * [Project Managers](#project-managers)
 * [UI Designers](#ui-designers)
@@ -150,15 +151,6 @@ Engineers draft their work in the form of functional requirements. Well-document
 1. ==Insert something here==
 2. ==Insert something here==
 3. ==Insert something here==
-
-### Product Designers
-
-Product Designers draft their work in the form of business, market, or user requirements. Well-documented requirements includes:
-
-1. Prototypes
-2. ==Insert something here==
-3. ==Insert something here==
-4. ==Insert something here==
 
 ### Product Managers
 
@@ -232,7 +224,7 @@ This is a simple calculation once you've determined what type of values to refer
 
 <q>t = v<sub>1</sub> + v<sub>2</sub> + v<sub>3</sub> + v<sub>4</sub> + v<sub>5</sub> &divide; r</q>
 
-## Loudest In, First Out
+### Loudest In, First Out
 
 Changing priorities based on whoever's screaming the loudest or whoever is building up the most pressure is not prioritization; it's ordering. Priorities measures business value. They do not factor in pressure, sensitivity, or coercion---factors known as __political value__. Therefore, changing the order using political values negates the priorities created by business value.
 
@@ -250,7 +242,7 @@ This assessment is beneficial because it:
 
 [Click here](https://docs.google.com/spreadsheets/d/1Be6v-tqqHKxPGGwgmecC80aiDmmogGgqResckUvfbns/pubhtml) to view and download the Opportunity Assessment spreadsheet.
 
-## Focus Areas
+### Focus Areas
 
 This assessment looks at three focus areas.
 
@@ -262,7 +254,7 @@ This assessment looks at three focus areas.
 
 ![Triangle](https://farm4.staticflickr.com/3947/15552074595_15410c7719.jpg)
 
-## Desirability
+### Desirability
 
 Desirability targets specific criteria drivers to gauge if an opportunity meets the standards for:
 
@@ -297,7 +289,7 @@ Below is an outline of each driver. Certain line items may need some tweaking, t
 | Significance | Pulls clients away from contractual obligations with competitors |
 | Strategic | Continues to add growth in the future |
 
-## Feasibility
+### Feasibility
 
 Measuring feasibility without having time to herd everyone together and explain everything is an impossible task. Don’t get overwhelmed by this section. Keep it simple and remember that it's not a commitment, it's not initiating a project, and you're not obligated to send it to anyone if you don't want to.
 
@@ -308,7 +300,7 @@ Measuring feasibility without having time to herd everyone together and explain 
 | Team Size | The head count for all Team members involved |
 | Sales | Estimates the number of potential sales each year if we release this idea |
 
-## Viability
+### Viability
 
 The viability section is not much different from what you would expect to see. It's divided into two separate sections---"revenue" and "profit"---and that’s where the differences end. All the viability data will auto-populate as you type in data under desirability and feasibility.
 
@@ -328,7 +320,7 @@ Again, this is a quick way to assess an opportunity. In the end, you should be a
 
 Good metrics should tell a story that gives the observer a 360&deg; view of the landscape through the use of both quantitative and qualitative data, thereby letting them draw a solid hypothesis. However, a metric is only as good as its data source and how you present your dats. Don't rely much on metrics unless accurate quantitative and qualitative data supports it. If the data comes into question, or you become suspicious that the data may be incomplete or corrupted, toss it out. It’s better to start with a basic hypothesis than to make knee-jerk decisions with inaccurate data.
 
-## Using KPI for Decision-Making
+### Using KPI for Decision-Making
 
 Similar to sales people and shiny things, stakeholders and decision-makers like numbers, bar graphs, and anything green. This is why they notoriously use KPIs to investigate variances and make knee-jerk decisions about their business processes or resources. Unfortuantely, dubious KPIs are adopted for vanity rather than a precise benchmark. Worse yet, if they lack the understanding of how to develop good measures, they'll resort to using percentages to quantify their measure.
 
