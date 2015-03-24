@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Getting Started
+title: About
 tagline: Shift focus toward creating better products.
 date: March 13, 2015
 order: 1
@@ -13,7 +13,7 @@ Many of us in the field of product development realize that creating products ha
 
 ---
 
-# About the {{site.github.title}}
+# What is the {{site.github.title}}?
 
 The {{site.github.title}} pushes products beyond the traditional boundaries of a project---starting from ideation, to development, to adoption, to incremental improvement. It derives from the bits of several methods:
 
