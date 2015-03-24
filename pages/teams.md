@@ -1,7 +1,7 @@
 ---
 layout: pages
-heading: Product Teams
-intro: Working from a shared vision to make great products.
+title: Product Teams
+tagline: Working from a shared vision to make great products.
 date: Jan 11, 2015
 order: 6
 baseurl: "../../"
@@ -55,7 +55,7 @@ The table below shows what kind of traits you can expect from these mindsets.
 | Wants to make it through the day | Wants to learn something new everyday |
 | Worries about | Wonders if |
 
-## The "Not Invented Here" Fallacy
+### The "Not Invented Here" Fallacy
 
 Aside from mindsets, a common fallacy among engineers is the "Not Invented Here" mentality. This is the unwillingness to adopt the work of open source communities and your peers because it didn't originate from you or your buddy. In psychology terms, this is not attributed to team dynamics; rather, it's a coercive cocktail of __tribalism__ and __favoritism__ brought on by big egos, faux intentions, or self-serving ambition.
 
@@ -82,7 +82,7 @@ The best definition for hierarchy derives from a 1998 NATO Charter:
 
 To give you a little background, the origins for Command-Control-Exrcute trace back to the U.S. Army. They needed a simplistic and agile way to handle missions, projects, training, or any number of situations---even those outside of the military. As of 2012, all branches and agencies linked to the U.S. armed forces have adopted it in one form or another.
 
-## Modern-Day Practices
+### Modern-Day Practices
 
 Command-Control-Execute has been used heavy outside of the military. Chances are you've already used it and didn't know it. The most popular use of it in product development is with __Scrum__.
 
@@ -94,7 +94,7 @@ Consider the three main roles in Scrum: the Product Owner, the Scrum Master, and
 | Control  | Scrum Master  |
 | Execute  | Team          |
 
-## Adaptation
+### Adaptation
 
 In terms of developing a product, the Command-Control-Execute hierarchy easily translates into __Strategy-Project-Delivery__.
 
@@ -124,7 +124,7 @@ With this hierarchy, we can set constraints at each level, such as:
 
 ![Work Group](https://farm4.staticflickr.com/3941/15661836651_908213d97a_z.jpg)
 
-## Core Group
+### Core Group
 
 With the need for constant business involvement, while at the same time setting and managing expectations, the Core Group acts as the conduit for the business. They're responsible for priority, deciding what's active, making key decisions, and fully understanding the business vision. Below is a brief description of this group.
 
@@ -135,7 +135,7 @@ With the need for constant business involvement, while at the same time setting 
 
 ![Biz-Design-Tech](https://farm4.staticflickr.com/3938/15478526968_cf8eefa106.jpg)
 
-## Delivery Group
+### Delivery Group
 
 The Core Group relays the business needs to the Delivery Group in order to align efforts that meet our strategic goals and market initiatives. The Delivery Group, in turn, becomes responsible for delivering the product agreed upon while keeping true to the health of the teams.
 
@@ -147,7 +147,7 @@ Below is a brief description of this group.
 * The lead for the Delivery Group is the __Dev Advocate__
 * The responsibilities of other business units---Finance, Marketing, Sales, Support, so on---are buffered under the Delivery Group
 
-## Where's Project Management?
+### Where's Project Management?
 
 To keep the momentum going and prevent things from becoming unglued, it's imperative that the __Project Advocate__ works in concert to ensure that the solution delivered meets the needs of the business without destroying morale along the way. One of the “due diligences” that person has is ensuring that the Dev Advocate delivers as expected, while also ensuring the Product Advocate doesn't over-commit.
 
@@ -208,19 +208,19 @@ Here, teams are empowered. They take action. They swarm on problems. They discus
 
 Kaizen also involves solid collaboration and a collegial atmosphere where everyone puts the health of the teams and the business above themselves. This systems-level thinking enhances their performance more and more over time.
 
-## Where Improvement is Necessary
+### Where Improvement is Necessary
 
 Now is a good time to mention that kaizen is much more than a way to improve team collaboration. It’s a means of improving where improvement is necessary. And this process isn’t clocked or time-boxed---it can occur when a scenario requiring improvement becomes clear.
 
 For example, reviewing data captured after a project has finished---via bookends like postmortems or retrospectives---is an ideal method of spotting weak points and working with the teams (or managers) to improve them.
 
-## Get Buy-In
+### Get Buy-In
 
 Instilling a kaizen culture is not easy, and it certainly will not happen overnight. It requires buy-in from not only each individual team but also management. Everyone must be willful participants. Otherwise, without their willingness, encouragement and support, all efforts will be worthless.
 
-## Set Expectations
+### Set Expectations
 
-Now, the bad news. Getting buy-in is the easy part. Getting it off the ground is the hard part. Even with everyone’s blessing, you might find barriers in your way. The important thing to understand here is that you’re disturbing their habitat and they do not like it.
+Getting buy-in is the easy part. Getting it off the ground is the hard part. Even with everyone’s blessing, you might find barriers in your way. The important thing to understand here is that you’re disturbing their habitat and they do not like it.
 
 It usually begins with unrest, and moves to chaos before everyone starts to adjust, normalize and ease back into his or her habitat. This may sound painful, but it’s no different from what we see in nature.
 
