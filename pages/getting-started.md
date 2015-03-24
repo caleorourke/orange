@@ -1,30 +1,30 @@
 ---
 layout: pages
-heading: Getting Started
-intro: Shift focus toward creating better products.
+title: Getting Started
+tagline: Shift focus toward creating better products.
 date: March 13, 2015
 order: 1
 baseurl: "../../"
 ---
 
-> "Life's too short to build something no one wants." --- Ash Maurya, Founder, *Spark59* and Author, *Running Lean*
+> "Life's too short to build something no one wants." --- Ash Maurya
 
 Many of us in the field of product development realize that creating products has more in common with art and philosophy than with applied sciences. And by inching ourselves away from mechanized methods, we’re able to explore creative solutions and contribute more to the product experience as a whole. This charter provides practical concepts to help improve how you make products going forward.
 
 ---
 
-# About {{site.github.name}}
+# About the {{site.github.title}}
 
-{{site.github.name}} pushes products beyond the traditional boundaries of a project---starting from ideation, to development, to adoption, to incremental improvement. It derives from the bits of several methods:
+The {{site.github.title}} pushes products beyond the traditional boundaries of a project---starting from ideation, to development, to adoption, to incremental improvement. It derives from the bits of several methods:
 
 * Lean/Kanban
 * Agile/Scrum
 * Practical Product Management (Pragmatic Marketing)
 * Design Thinking
 
-## Prototyping to Delivery
+### Prototyping to Delivery
 
-At its core, {{site.github.name}} places emphasis on __prototyping__, __balanced teams__, __customer discovery__, and __reduced cycles__, with the intent of:
+At its core, {{site.github.title}} places emphasis on __prototyping__, __balanced teams__, __customer discovery__, and __reduced cycles__, with the intent of:
 
 * Clearly defining how we manage products through their lifecycles
 * Incrementally adding new practices and workflows
@@ -34,7 +34,7 @@ At its core, {{site.github.name}} places emphasis on __prototyping__, __balanced
 
 ![Stack](https://farm6.staticflickr.com/5613/15533499465_ef3fc6f5fa_z.jpg)
 
-## A Living Charter
+### A Living Charter
 
 Do note that nothing here is set in stone. This as a "living" charter. As we continue to learn more about our industry and ourselves, the {{site.github.name}} will evolve.
 
@@ -69,11 +69,11 @@ Click on any of the subjects below to start reading.
 
 {% assign page-links = site.pages | sort:"order" %}
 {% for node in page-links %}
-  {% if node.heading != null %}
+  {% if node.title != null %}
     {% if node.order != 1 %}
       {% if node.layout == "pages" %}
 
-* [{{node.heading}}]({{site.baseurl}}{{node.url}}) --- {{node.intro}}
+* [{{node.title}}]({{site.baseurl}}{{node.url}}) --- {{node.intro}}
 
       {% endif %}
     {% endif %}
