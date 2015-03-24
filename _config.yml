@@ -12,7 +12,7 @@
 
 github:
   title:        Product Charter
-  tagline:      Practical concepts to improve how you make products.
+  tagline:      Practical concepts to help improve how you make products.
   owner:        "Michael O'Rourke"
   license:      Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
   user:
@@ -59,6 +59,7 @@ exclude:        [".csscomb.json",
                  "less",
                  "node_modules",
                  "package.json",
+                 "pages/drafts",
                  "README.md",
                  "vendors"]
 gems:
