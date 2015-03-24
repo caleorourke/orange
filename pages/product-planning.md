@@ -1,13 +1,13 @@
 ---
 layout: pages
-heading: Product Planning
-intro: Transform strategic objectives into tactical inertia.
+title: Product Planning
+tagline: Transform strategic objectives into tactical inertia.
 date: Jan 31, 2015
 order: 5
 baseurl: "../../"
 ---
 
-Even the simplest product can be a huge undertaking when you `consider` that it takes just one wrong turn to throw everything off course. But rather than trying to make course correction along the way, these sections help identify the best course in hopes of getting you there smoothly and intact.
+Even the simplest product can be a huge undertaking when you consider that it takes just one wrong turn to throw everything off course. But rather than trying to make course correction along the way, these sections help identify the best course in hopes of getting you there smoothly and intact.
 
 ---
 
@@ -32,15 +32,15 @@ Before jumping in, browse through these takeaways to get a better understanding 
 
 There are two dominant approaches to planning: "top-down" and "bottom-up".
 
-## Top-Down
+### Top-Down
 
 Top-down allows you to start planning early when very little is known, or in certain circumstances where a feature-set cannot be frozen. This means teams can start work with minimal requirements up-front. It also provides an analogous form of planning using parameters such as relative sizing, milestones, and supports a “pull by demand” system.
 
-## Bottom-Up
+### Bottom-Up
 
 Bottom-up requires heavy up-front requirements, demands a frozen feature-set, and often has a hefty approval process. It's the more attractive approach for people that have no skin in the game, but it's slow release cycle is known to kill team morale.
 
-The {{site.github.name}} encourages use of the **top-down** approach.
+The {{site.github.title}} encourages use of the **top-down** approach.
 
 ---
 
@@ -58,7 +58,7 @@ Plans change; that much is inevitable. However, teams often work off the initial
 * Whenever a decision to change is made, nominate someone to inform all teams members
 * Have a source for Change Requests and keep track of their origins
 
-## Meta-Elements
+### Meta-Elements
 
 When you get into the thick of it all, keep the following meta-elements in mind while planning.
 
@@ -69,7 +69,9 @@ When you get into the thick of it all, keep the following meta-elements in mind 
 | Documentation | <ul><li>Release Notes</li><li>Exit Criteria</li><li>Test Cases</li><li>Specifications</li></ul> |
 | Planning Attributes | <ul><li>Priorities</li><li>Requirements</li><li>Effort Sizing</li><li>Release Cycles</li></ul> |
 
-## Fuzzy Up-Front
+---
+
+# Fuzzy Up-Front
 
 Requirements and risks are obviously important. How much time you spend on these in the early stages, though, can kill the momentum to build it.
 
@@ -96,7 +98,7 @@ _Some people really do search for reasons to block a project like there's some r
 
 Three approaches to iteration planning are "velocity-driven", "commitment-driven", and "value-driven".
 
-## Velocity-driven
+### Velocity-driven
 
 This demands that all teams, as a whole, have a quantitative, time-boxed, and consistent measurement of work effort. This is a sunny-day approach, though, that only works for small, normalized teams working on a single product. This won't work for a team that adds people routinely as the project gains traction internally.
 
@@ -109,11 +111,11 @@ To put it another way:
 
 This may seem irrelevant, but remember [Rule #9: Maintain Momentum]({{page.baseurl}}pages/product-essentials/#constructs). In order to keep consistent momentum, you have to adjust velocity regularly as the teams grows and shrinks.
 
-## Commitment-driven
+### Commitment-driven
 
 Only those tasks pulled in for you to work on are those you'll deliver. Albeit a more flexible approach than velocity, it has one distinguishing flaw: commitment. _The core Lean principles emphasize the need to defer commitment for work that isn't ready or is still awaiting a key decision_. It's no different than committing your team to building a house without knowing if it's supposed to be one-story or two. You can certainly start the building process, but your work might stop abruptly at a certain point if that decision still hasn't been made.
 
-## Value-driven
+### Value-driven
 
 Value-driven means we pull in the work by priorities in order to delivery high-value, high-quality software capabilities to users. This provides incremental fielding and resource-effective sustainment. It also dismisses value engineering techniques where features are built based on how many and how fast we can build them, rather than how customers will receive them.
 
@@ -143,13 +145,13 @@ The reason that one day equates to five points is based on the average working h
 
 But, that's on a good day. Other days, you have longer meetings, doctor appointments, fires to put out, or you're busy debating which animals could survive terraforming on a distant planet with your colleagues. That's the beauty of applying Fibonacci. It automatically adds padding to account for those risks, delays, and other life-events that no one plans for.
 
-## Epics
+### Epics
 
 > "When eating an elephant, take one bite at a time." --- Creighton Abrams
 
 Projects beyond the 89-point marker are __Epics__. For sanity reasons, Epics should never be estimated in this manner. Instead, they should be sashimied into smaller __Themes__ or __Stories__ to make it easier to digest. From there, the total can be rolled back up to the Epic.
 
-## Ideal vs. Elapsed Time
+### Ideal vs. Elapsed Time
 
 A football game consists of four 15-minute quarters. So, why do games run for three hours?
 
