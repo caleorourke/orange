@@ -3,7 +3,6 @@ layout: pages
 heading: Product Lifecycle
 intro: Maintain momentum long after a project finishes.
 date: Oct 21, 2014
-order: 7
 baseurl: "../../"
 ---
 
