@@ -13,7 +13,7 @@
 github:
   title:        Product Charter
   tagline:      Practical concepts to improve how you make products.
-  owner:        "Cale (Michael) O'Rourke"
+  owner:        "Michael) O'Rourke"
   license:      Creative Commons
   user:
     name:       caleorourke
@@ -44,6 +44,7 @@ redcarpet:
                  "strikethrough",
                  "superscript",
                  "tables",
+                 "underline",
                  "with_toc_data"]
 
 # ==============================
