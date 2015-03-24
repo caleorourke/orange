@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Product Essentials
+title: Essentials
 tagline: Principles and constructs to pre-productize in a more Lean-ish manner.
 date: Feb 8, 2015
 order: 2
