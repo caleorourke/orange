@@ -23,7 +23,7 @@ Top-down allows you to start planning early when very little is known, or in cer
 
 Bottom-up requires heavy up-front requirements, demands a frozen feature-set, and often has a hefty approval process. It's the more attractive approach for people that have no skin in the game, but it's slow release cycle is known to kill team morale.
 
-The {{site.github.title}} encourages use of the **top-down** approach.
+Here, we encourage use of the **top-down** approach.
 
 ---
 
@@ -64,7 +64,7 @@ Gathering all the requirements up-front and having them set in stone condemns th
 
 ### Risks
 
-_Some people really do search for reasons to block a project like there's some reward for it_. However, the {{site.github.name}} discourages the kinds of ceremonial brainstorming sessions where everyone discusses every possible risks before work can start. Instead, with a more adaptive approach, you should:
+_Some people really do search for reasons to block a project like there's some reward for it_. However, the {{site.github.title}} discourages the kinds of ceremonial brainstorming sessions where everyone discusses every possible risks before work can start. Instead, with a more adaptive approach, you should:
 
 * Monitor activity regularly throughout the release
 * Ask about potential risks when you sync with your team
@@ -85,14 +85,14 @@ Three approaches to iteration planning are "velocity-driven", "commitment-driven
 
 This demands that all teams, as a whole, have a quantitative, time-boxed, and consistent measurement of work effort. This is a sunny-day approach, though, that only works for small, normalized teams working on a single product. This won't work for a team that adds people routinely as the project gains traction internally.
 
-The "snowball effect" is a good way to illustrate this. As it rolls, the ball picks up more snow, gains more mass and surface area, and continues to pick up more snow and momentum as it rolls along. The key here is __momentum__. In physics, momentum (*p*) is mass (*m*) times velocity (*v*), or *p=mv*. As the team grows and shrinks in size, it impacts both momentum and velocity. 
+The "snowball effect" is a good way to illustrate this. As it rolls, the ball picks up more snow, gains more mass and surface area, and continues to pick up more snow and momentum as it rolls along. The key here is __momentum__. In physics, momentum `p` is mass `m` times velocity `v`, or `p=mv`. As the team grows and shrinks in size, it impacts both momentum and velocity. 
 
 To put it another way:
 
-* If you need consistent velocity, and your team size increases, your momentum increases -- e.g. *10<sub>(m)</sub> &middot; 25<sub>(v)</sub> = 250<sub>(p)</sub>*
-* If you need consistent velocity, and your team size decreases, your momentum decreases -- e.g. *7<sub>(m)</sub> &middot; 25<sub>(v)</sub> = 175<sub>(p)</sub>*
+* If you need consistent velocity, and your team size increases, your momentum increases -- e.g. `10<sub>(m)</sub> &middot; 25<sub>(v)</sub> = 250<sub>(p)</sub>`
+* If you need consistent velocity, and your team size decreases, your momentum decreases -- e.g. `7<sub>(m)</sub> &middot; 25<sub>(v)</sub> = 175<sub>(p)</sub>`
 
-This may seem irrelevant, but remember [Rule #9: Maintain Momentum]({{page.baseurl}}pages/product-essentials/#constructs). In order to keep consistent momentum, you have to adjust velocity regularly as the teams grows and shrinks.
+This may seem irrelevant, but remember [#9: Maintain Momentum]({{page.baseurl}}pages/essentials/#constructs). In order to keep consistent momentum, you have to adjust velocity regularly as the teams grows and shrinks.
 
 ### Commitment-driven
 
@@ -102,7 +102,7 @@ Only those tasks pulled in for you to work on are those you'll deliver. Albeit a
 
 Value-driven means we pull in the work by priorities in order to delivery high-value, high-quality software capabilities to users. This provides incremental fielding and resource-effective sustainment. It also dismisses value engineering techniques where features are built based on how many and how fast we can build them, rather than how customers will receive them.
 
-_Overall, managing agility and rapid development at scale means managing sustainable software delivery, resolving the tensions of decision making based on short- and long-term perspectives, and meeting productivity goals_. Since the dynamics for teams and work differ from product to product, a __value-driven__ approach is the option with the most flexibility and the least likely to send us on a death march.
+Overall, _managing agility and rapid development at scale means managing sustainable software delivery, resolving the tensions of decision making based on short- and long-term perspectives, and meeting productivity goals_. Since the dynamics for teams and work differ from product to product, a __value-driven__ approach is the option with the most flexibility and the least likely to send us on a death march.
 
 ---
 
