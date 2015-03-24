@@ -3,7 +3,6 @@ layout: pages
 heading: Product Design
 intro: Insert intro.
 date: Oct 13, 2014
-order: 4
 baseurl: "../../"
 ---
 
