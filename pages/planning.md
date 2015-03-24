@@ -11,23 +11,6 @@ Even the simplest product can be a huge undertaking when you consider that it ta
 
 ---
 
-# Takeaways
-
-Before jumping in, browse through these takeaways to get a better understanding of the underlying context.
-
-1. Doing 100% of something is better than waiting for 100% of everything.
-2. Finding a reason "to" is always more important than finding a reason "not to".
-3. The longer it takes to develop, the less likely it is to launch.
-4. You cannot be a God and expect not to get blamed for anything that isn’t right. The same goes for anyone leading a project.
-5. Flexibility leads to vulnerability. The more flexibility you have, the more control you need to prevent abuse.
-6. Good judgment comes from experience, and experience comes from bad judgment.
-7. Everything doesn't need to be talked about.
-8. No one ever said progress was pretty.
-9. Customers are the highest-ranking stakeholders.
-10. The most accurate way to tell how long a project will take is after it’s done.
-
----
-
 # Planning Approach
 
 There are two dominant approaches to planning: "top-down" and "bottom-up".
@@ -129,19 +112,18 @@ Numerous ways to size-up projects are available, each with their own variance of
 
 Later down the line, these sizes can be converted into man-days and help facilitators estimate where we'll land. The table below is one such example of how to convert points into man-days using the Fibonacci sequence.
 
-| Team Days | Points |
-| ---------:| ----:|
+| Man Days | Points |
+| --------:| ----:|
 | 1/2       | 3 |
 | 1        | 5 |
-| 2        | 13 |
-| 3        | 21 |
-| 5        | 34 |
-| 7        | 34 |
-| 10       | 55 |
-| 15       | 89 |
-| 17       | 89 |
+| 2        | 8 |
+| 3        | 13 |
+| 5        | 21 |
+| 8        | 34 |
+| 12       | 55 |
+| 13       | 55 |
 
-The reason that one day equates to five points is based on the average working hours in a single day. With all the meetings, responding to emails, breaks, scuttlebutt, and so on, a single team member gets about five hours of actual heads-down work done a day.
+Each day equates to four points based on the average working hours in a single day once you discount all the meetings, respondes to emails, breaks, scuttlebutt, and so on. This means a single team member gets about four hours of actual heads-down work done a day.
 
 But, that's on a good day. Other days, you have longer meetings, doctor appointments, fires to put out, or you're busy debating which animals could survive terraforming on a distant planet with your colleagues. That's the beauty of applying Fibonacci. It automatically adds padding to account for those risks, delays, and other life-events that no one plans for.
 
@@ -149,7 +131,7 @@ But, that's on a good day. Other days, you have longer meetings, doctor appointm
 
 > "When eating an elephant, take one bite at a time." --- Creighton Abrams
 
-Projects beyond the 89-point marker are __Epics__. For sanity reasons, Epics should never be estimated in this manner. Instead, they should be sashimied into smaller __Themes__ or __Stories__ to make it easier to digest. From there, the total can be rolled back up to the Epic.
+Projects beyond the 55-point marker are __Epics__. For sanity reasons, Epics should never be estimated in this manner. Instead, they should be sashimied into smaller __Themes__ or __Stories__ to make it easier to digest. From there, the total can be rolled back up to the Epic.
 
 ### Ideal vs. Elapsed Time
 
@@ -183,7 +165,7 @@ A typical project brings five distinct artifacts into play.
 
 # Meetups
 
-Being a less ceremonial charter, {{site.github.name}} employs four types of meetups (or "syncs" in some cases), and each is broken out into two different categories: planning and update.
+Being a less ceremonial charter, {{site.github.title}} employs four types of meetups (or "syncs" in some cases), and each is broken out into two different categories: planning and update.
 
 | Meeting | Intent | Frequency | Attendees |
 | ------- | ------ | --------- | --------- |
@@ -218,3 +200,20 @@ Preparing and anticipating every suspected risk before the kick-off of a release
 | Delays in Decisions | Whether it's a delay between getting requirements and getting feedback from stakeholders, or a delay between requirements and coding, or a delay between writing code and seeing if it really worked, these each carry their own uncertainty. |
 | Crises | Attention may be diverted to deal with any crises that springs up, and it's important to be accommodating. Saying that we won't stop and take a hit in order to swarm on a crisis could come back to haunt us---maybe not tomorrow, or next week, or next month, but it will. |
 | Unclear Definition of Done | Teams without a clear, documented definition of what done means (Exit Criteria using the “I can” technique) can't validate that their work meets the Product Manager's expectations. |
+
+---
+
+# Takeaways
+
+Browse through these takeaways to get a better understanding of the underlying context.
+
+1. Doing 100% of something is better than waiting for 100% of everything.
+2. Finding a reason "to" is always more important than finding a reason "not to".
+3. The longer it takes to develop, the less likely it is to launch.
+4. You cannot be a God and expect not to get blamed for anything that isn’t right. The same goes for anyone leading a project.
+5. Flexibility leads to vulnerability. The more flexibility you have, the more control you need to prevent abuse.
+6. Good judgment comes from experience, and experience comes from bad judgment.
+7. Everything doesn't need to be talked about.
+8. No one ever said progress was pretty.
+9. Customers are the highest-ranking stakeholders.
+10. The most accurate way to tell how long a project will take is after it’s done.
