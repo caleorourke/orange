@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Product Teams
+title: Teams
 tagline: Working from a shared vision to make great products.
 date: Jan 11, 2015
 order: 6
