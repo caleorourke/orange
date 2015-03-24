@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Product Planning
+title: Planning
 tagline: Transform strategic objectives into tactical inertia.
 date: Jan 31, 2015
 order: 5
