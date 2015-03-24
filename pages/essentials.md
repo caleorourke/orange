@@ -134,7 +134,7 @@ Twelve essential constructs provide a basic template for creating new practices.
 8. Inspect and adapt
 9. Maintain momentum
 10. Defer dates, not expectations
-11. Level up
+11. Level set
 12. Validate everything
 
 ---
