@@ -1,7 +1,7 @@
 ---
 layout: pages
-heading: Product Essentials
-intro: Principles and constructs to pre-productize in a more Lean-ish manner.
+title: Product Essentials
+tagline: Principles and constructs to pre-productize in a more Lean-ish manner.
 date: Feb 8, 2015
 order: 2
 baseurl: "../../"
@@ -35,11 +35,11 @@ Development methods exist on a continuum from **predictive** to **adaptive**.
 * On the predictive end, you deliver plans and dates. This means your product must be out by a set date.
 * On the adaptive end, you deliver value and features. This means your product is only released when it’s deemed show-ready.
 
-## Predictive & Date-Driven
+### Predictive & Date-Driven
 
 _Date-driven is a natural, predictive approach that sacrifices elasticity to meet an arbitrary date_. Trying to develop quickly is not only difficult, it's disruptive and taxing. Everything usually grinds to a halt at some point post-discovery and teams often cut corners to make up that lost time.
 
-## Adaptive & Feature-Driven
+### Adaptive & Feature-Driven
 
 _Feature-driven is an unnatural, adaptive approach with maximum value, flexibility, and minimal recoil_. The only people who suffer heartache are those that cling to some arbitrary launch date like it's the Second Coming of Christ.
 
@@ -61,15 +61,15 @@ Harnessing several Lean principles as the basic platform should inspire new cond
 8. [Test Early, Test Often](#test-early,-test-often)
 9. [Use Visual Controls](#use-visual-controls)
 
-## Adapt to Change
+### Adapt to Change
 
 To maximize your technology investment, you have to venture further into new territories. Most of this occurs during discovery, but changes can erupt at any time as you learn more about what's needed. Worse yet, it's impossible to shield a project from this. As a standard principle, all core team members must remain available throughout a project so they can contribute to decisions arising from these changes and help their fellow peers adapt quickly.
 
-## Create Knowledge
+### Create Knowledge
 
 Each development project, environment, and team is unique, and each iteration offers a learning opportunity. Knowledge that is not transferred or planted along the way is lost. Be intentional about facilitating knowledge exchange in a consistent way. Learn what customers know and let the requirements emerge based on what they learn while doing, and not just by what they're asking for.
 
-## Deliver Incremental Value
+### Deliver Incremental Value
 
 Small, quality deliverables show progress, promote learning, and improve team morale. They also help detect risks, bugs, missing requirements, and force decisions to be made early. Several ways to deliver more frequently include:
 
@@ -78,7 +78,7 @@ Small, quality deliverables show progress, promote learning, and improve team mo
 * Leaving options open by not making premature decisions
 * Using a Kanban board to identify where bottlenecks are occurring
 
-## Eliminate Waste
+### Eliminate Waste
 
 Eliminate anything that creates waste, including---but not limited to---the following.
 
@@ -92,21 +92,21 @@ Eliminate anything that creates waste, including---but not limited to---the foll
 | Excessive Motion | <ul><li>Fire-fighting repeat problems within the infrastructure and apps</li></ul> | <ul><li>Lost productivity</li></ul> |
 | Unused Knowledge | <ul><li>Failing to capture ideas</li><li>Retention issues</li></ul> | <ul><li>Employees wasting energy on repetitive or mundane tasks</li></ul> |
 
-## Improve Continuously
+### Improve Continuously
 
 Working to constantly improve is the number one way in which many businesses reduce operating overhead and streamline work. Efficient work saves time and money, allowing you to reduce wasted effort and expenditures. For example, projects where milestones keep getting pushed to the right, priorities change at each meeting, or decisions are left unmade are filled with opportunities to improve; someone just has to take the initiative to own it and work through it.
 
-## Open Up Communication
+### Open Up Communication
 
 Not so long ago, businesses modeled their projects purely on a need-to-know basis, which always lead to misunderstandings and impaired the ability of a team to deliver products successfully. And despite a few sects that still maintain this tradition, most have adopted an open, honest communication flow---both within the team and stakeholders.
 
 A free-flow of information not only reduces the chances of misunderstandings and wastes, but also ensures that all team members are battle-ready and working to reduce uncertainties surrounding the project. This is why communication must be unrestricted and transparent, especially when it comes to navigating an empirical-like org or getting through the impenetrable blanket draped over you.
 
-## Optimize the Whole
+### Optimize the Whole
 
 Don't think <var>n=1</var>, think <var>n=many</var> by focusing on the entire portfolio of products---not just the product you're working on today. Do what is needed to improve the overall workflow, to develop the most valuable features, and to write high-quality code.
 
-## Test Early, Test Often
+### Test Early, Test Often
 
 Quality is built into the product, not tested in. It's part of the overall product design. Use practices to instill design choices that create sustainable, less complex, more flexible code. In turn, you'll spend less time fixing bugs and more time improving the code quality to enhance performance, reliability, and efficiency.
 
@@ -114,7 +114,7 @@ Additionally, it's important for each team understands what quality means. With 
 
 <q>"Quality is a customer determination, not an engineering, marketing, or management determination. It is based on the customer's actual experience with the product or service, measured against his or her requirements---stated or unstated; conscious or merely sensed; technically operational or entirely subjective---and always represents a moving target in a competitive market".</q>
 
-## Use Visual Controls
+### Use Visual Controls
 
 Metrics, content repositories, project dashboards, issue trackers, task management applications, and so on, must be visible to not only the team members, but also stakeholders, contributors, anyone else that has skin in the game. You should definitely consider restricting permissions to some of these resources, but restricting access to only a few team members is different. If they can't see it, it's not exactly "visual", wouldn't you say?
 
@@ -141,7 +141,7 @@ Twelve essential constructs provide a basic template for creating new practices.
 
 # Introducing New Practices
 
-Transforming processes into a collection of practices is fundamental to the {{site.github.name}}. Each one needs to be built on the premise of having __visibility__, __consistency__, and __boundaries__. Once you have those in place, then it's just a matter of defining, testing, reworking, and adopting them incrementally to improve your way of working.
+Transforming processes into a collection of practices is fundamental to the {{site.github.title}}. Each one needs to be built on the premise of having __visibility__, __consistency__, and __boundaries__. Once you have those in place, then it's just a matter of defining, testing, reworking, and adopting them incrementally to improve your way of working.
 
 To get started, first you'll need to:
 
@@ -159,8 +159,8 @@ To get started, first you'll need to:
 
 Below are areas where you have the wielding power to make pivotal improvements.
 
-| Existing Process | New Practice |
-| ---------------- | ------------ |
+| Existing Processes | New Processes |
+| ------------------ | ------------- |
 | Backlog is controlled by development | Backlog is shared across teams |
 | Tasks cannot change while an iteration is in progress | Tasks can be added whenever there is capacity |
 | Priorities cannot change while an iteration is in progress | Priorities can be changed if approved |
