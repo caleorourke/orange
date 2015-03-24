@@ -13,8 +13,8 @@
 github:
   title:        Product Charter
   tagline:      Practical concepts to improve how you make products.
-  owner:        "Michael) O'Rourke"
-  license:      Creative Commons
+  owner:        "Michael O'Rourke"
+  license:      Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
   user:
     name:       caleorourke
     repo:       product-charter
