@@ -1,2 +1,9 @@
 _site/
-.sass-cache/
+node_modules/
+.DS_Store
+Desktop.ini
+Thumbs.db
+Gemfile.lock
+validation-*.json
+*~
+*.log
