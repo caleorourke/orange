@@ -3,7 +3,7 @@ layout: pages
 title: Teams
 tagline: Working from a shared vision to make great products.
 date: Jan 11, 2015
-order: 6
+order: 5
 baseurl: "../../"
 ---
 
