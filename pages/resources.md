@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Product Resources
+title: Resources
 tagline: Tools for eager self-learners and like-minded doers.
 date: Mar 14, 2015
 order: 6
