@@ -1,9 +1,9 @@
 ---
 layout: pages
-heading: Product Resources
-intro: Tools for eager self-learners and like-minded doers.
+title: Product Resources
+tagline: Tools for eager self-learners and like-minded doers.
 date: Mar 14, 2015
-order: 8
+order: 6
 baseurl: "../../"
 ---
 
@@ -15,7 +15,7 @@ For those self-learners and like-minded doers, below is a collection of useful r
 
 A good article always makes a great resource for information, ideas, or validation. The following are a number of recommended articles categorized by [Design](#design), [Ideation](#ideation), and [Product](#product).
 
-## Design
+### Design
 
 Good articles related to a number of design concepts.
 
@@ -33,7 +33,7 @@ Good articles related to a number of design concepts.
 * [What is Product Design?](https://medium.com/@ericeriksson/what-is-product-design-9709572cb3ff?source=none&)
 * [Why Good Storytelling Helps You Design Great Products](https://gigaom.com/2013/04/14/why-good-storytelling-helps-you-design-great-products)
 
-## Ideation
+### Ideation
 
 Good articles for ideation and inspiration.
 
@@ -45,7 +45,7 @@ Good articles for ideation and inspiration.
 * [This is How Your Brain Responds to Beer vs. Coffee](http://sobadsogood.com/2013/09/21/this-is-how-your-brain-responds-to-beer-vs-coffee)
 * [Three Things a Day](https://medium.com/@sajid_mhd/three-things-a-day-12118a687d76?source=none&)
 
-## Product
+### Product
 
 Good articles for product-related subjects.
 
@@ -74,7 +74,7 @@ Recommended blogs for both design or development.
 
 Like articles, books are also great resources for information, ideas, or validation.
 
-## Free Books
+### Free Books
 
 Neat (and free) books spanning a number of subjects.
 
@@ -86,7 +86,7 @@ Neat (and free) books spanning a number of subjects.
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US)
 * [Web Platform](http://webplatform.org)
 
-## Not-So Free Books
+### Not-So Free Books
 
 Neat (and not-so free) books spanning a number of subjects.
 
@@ -114,7 +114,7 @@ Neat (and not-so free) books spanning a number of subjects.
 
 A plentiful list of icons, backgrounds, colors, images, and more.
 
-## Background Patterns
+### Background Patterns
 
 Free libraries of background patterns.
 
@@ -122,7 +122,7 @@ Free libraries of background patterns.
 * [Subtle Patterns](http://subtlepatterns.com)
 * [The Pattern Library](http://thepatternlibrary.com)
 
-## Boilerplates
+### Boilerplates
 
 Boilerplates written in HTML/CSS.
 
@@ -130,7 +130,7 @@ Boilerplates written in HTML/CSS.
 * [INIT](http://use-init.com)
 * [Skeleton](http://www.getskeleton.com)
 
-## Colors
+### Colors
 
 Helpful color pickers and scheme designers.
 
@@ -138,7 +138,7 @@ Helpful color pickers and scheme designers.
 * [Colour Lovers](http://www.colourlovers.com)
 * [Colour Scheme Designer](http://colorschemedesigner.com)
 
-## Fonts
+### Fonts
 
 Free font libraries.
 
@@ -146,7 +146,7 @@ Free font libraries.
 * [Google Fonts](http://www.google.com/fonts)
 * [TypeTester](http://www.typetester.org)
 
-## Icons
+### Icons
 
 Free icon libraries.
 
@@ -157,7 +157,7 @@ Free icon libraries.
 * [Iconmonstr](http://iconmonstr.com)
 * [Octicons](http://octicons.github.com)
 
-## Notetakers and Editors
+### Notetakers and Editors
 
 Free online editors and notetaking services.
 
@@ -168,7 +168,7 @@ Free online editors and notetaking services.
 * [Markable.in](http://markable.in)
 * [Prose.io](http://prose.io)
 
-## Mockups and Prototyping
+### Mockups and Prototyping
 
 Create and host your mockup design or prototypes.
 
@@ -178,7 +178,7 @@ Create and host your mockup design or prototypes.
 * [Prototype On Paper](http://popapp.in)
 * [UXPin](http://uxpin.com)
 
-## Photos
+### Photos
 
 Free photo libraries.
 
@@ -190,14 +190,14 @@ Free photo libraries.
 * [Picography](http://picography.co)
 * [Unsplash](http://unsplash.com)
 
-## Photo Editors
+### Photo Editors
 
 Free online photo editors.
 
 * [Fotor](http://www.fotor.com)
 * [Pixlr](http://apps.pixlr.com/o-matic)
 
-## Plugins
+### Plugins
 
 Neat JavaScript plugins for a number of uses.
 
@@ -208,7 +208,7 @@ Neat JavaScript plugins for a number of uses.
 * [Skrollr](http://prinzhorn.github.io/skrollr)
 * [Turn.js](http://www.turnjs.com)
 
-## UI Kits
+### UI Kits
 
 CSS-based modules and styles bundled as downloadable kits.
 
@@ -217,13 +217,13 @@ CSS-based modules and styles bundled as downloadable kits.
 * [Topcoat](http://topcoat.io)
 * [UIkit](http://getuikit.com)
 
-## User Feedback
+### User Feedback
 
 * [Ethnio](http://ethn.io)
 * [Peek by UserTesting](http://peek.usertesting.com)
 * [Survey.io](http://survey.io)
 
-## Miscellany
+### Miscellany
 
 Useful tools that are so unique, it's difficult to categorize them.
 
@@ -244,14 +244,14 @@ Useful tools that are so unique, it's difficult to categorize them.
 
 The following is a number of dev resources and tools.
 
-## Build Automation
+### Build Automation
 
 Task runners and build systems.
 
 * [Grunt](http://gruntjs.com)
 * [Gulp.js](http://gulpjs.com)
 
-## Collaboration
+### Collaboration
 
 Tools for sharing code, content, or chatting.
 
@@ -264,7 +264,7 @@ Tools for sharing code, content, or chatting.
 * [TogetherJS](https://togetherjs.com)
 * [vLine](https://vline.com)
 
-## Diagnostics
+### Diagnostics
 
 * [AboutMyBrowser](http://aboutmybrowser.com)
 * [Errorception](http://errorception.com)
@@ -272,7 +272,7 @@ Tools for sharing code, content, or chatting.
 * [Network Tools](http://network-tools.com)
 * [Webkit Inspector](http://jtaby.com/2012/04/23/modern-web-development-part-1.html)
 
-## Documentation
+### Documentation
 
 Create and host your own documents.
 
@@ -283,14 +283,31 @@ Create and host your own documents.
 * [Reveal.js](http://lab.hakim.se/reveal-js/#)
 * [Sphinx](http://sphinx.pocoo.org)
 
-## Helpers
+### Helpers
 
 A number of helpers and wrappers for APIs.
 
 * [Python APIs](http://www.pythonapi.com)
 * [Webshell](http://webshell.io)
 
-## Frameworks
+### Scheduling
+
+Simple scheduling tools.
+
+* [Doodle](http://doodle.com)
+* [YouCanBookMe](http://youcanbook.me)
+
+### Version Control
+
+Version control systems for source code.
+
+* [BitBucket](https://bitbucket.org)
+* [GitHub](http://github.com)
+* [GitLab](http://gitlab.org)
+
+---
+
+# Frameworks
 
 A hearty list of front-end, web app, and mobile frameworks.
 
@@ -322,21 +339,6 @@ Frameworks written for mobile devices.
 Special purpose frameworks.
 
 * [Dotfiles](http://dotfiles.github.com)
-
-## Scheduling
-
-Simple scheduling tools.
-
-* [Doodle](http://doodle.com)
-* [YouCanBookMe](http://youcanbook.me)
-
-## Version Control
-
-Version control systems for source code.
-
-* [BitBucket](https://bitbucket.org)
-* [GitHub](http://github.com)
-* [GitLab](http://gitlab.org)
 
 ---
 
