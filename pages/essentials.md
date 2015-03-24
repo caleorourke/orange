@@ -187,21 +187,21 @@ Every person that touches a product has to be conscientious of four threats. The
 3. [Interest](#interest)
 4. [Knowledge](#knowledge)
 
-## Assumptions
+### Assumptions
 
 By habit, team members often compare a new product with similar products they worked on in the past, thereby already making assumptions that are not accurate. Eliminate these early-on and often. Make this a priority for each team meeting.
 
-## Responsibilities
+### Responsibilities
 
 Job titles get in the way of things, especially high-ranking titles. Some exert their powers unintentionally, while others are just dicks. Whatever the case may be, responsibilities should be doled out by roles, not by job titles. This is why frameworks use roles, like Product Owner, Scrum Master, and Code Keeper, to describe what kind of input and output a person under that role should be producing. It also prevents people with high-ranking titles from offloading work that they should be doing.
 
-## Interest
+### Interest
 
 Interest is an emotion (obviously). But contrary to popular belief, interest has as much to do with keeping people positive as it does with keeping them actively engaged.
 
 Interest teeters awfully close to the negative half of emotion. This means the slightest breeze of __negativity__, __rejection__, __abandonment__, __neglect__, and __deception__ can transform an actively interested person or team into a completely uninterested one. This is why [having a productive mindset]({{page.baseurl}}product-teams/#mindsets) is important among teams. It's also important to remember we're all human, and just like with death and taxes, you're certainly going to have bad days. Unfortunately, team members often come under fire when your emotions unload. Admitting that you overreacted and apologizing for your attack will not only remove any tension, it can bring teams closer together.
 
-## Knowledge
+### Knowledge
 
 Rather than discussing why knowledge sharing fails, a more effective, eye-opening approach is to show the excuses people make when they're asked to train their peers.
 
