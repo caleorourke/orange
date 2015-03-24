@@ -139,16 +139,16 @@ Twelve essential constructs provide a basic template for creating new practices.
 
 ---
 
-# Introducing New Practices
+# Introducing New Processes
 
-Transforming processes into a collection of practices is fundamental to the {{site.github.title}}. Each one needs to be built on the premise of having __visibility__, __consistency__, and __boundaries__. Once you have those in place, then it's just a matter of defining, testing, reworking, and adopting them incrementally to improve your way of working.
+Transforming processes is fundamental to the {{site.github.title}}. Each one needs to be built on the premise of having __visibility__, __consistency__, and __boundaries__. Once you have those in place, then it's just a matter of defining, testing, reworking, and adopting them incrementally to improve your way of working.
 
 To get started, first you'll need to:
 
-1. Get a firm understanding of the basic constructs for creating new practices---see [Business Rules](#business-rules).
+1. Get a firm understanding of the basic constructs for creating new processes---see [Constructs](#constructs).
 2. Select the weakest processes first and either cope temporarily with other challenges or find coverage to man them.
-3. Implement new practices in whatever combination and at whatever speed you're comfortable with.
-4. Verify how the new practices impact your existing work routines.
+3. Implement new processes in whatever combination and at whatever speed you're comfortable with.
+4. Verify how the new processes impact your existing work routines.
 5. Rinse and repeat.
 
 > A crucial part of governing is not to throw teams off-balance by pushing too much, too fast. Otherwise, you risk a mutiny or a mass exodus.
@@ -199,7 +199,7 @@ Job titles get in the way of things, especially high-ranking titles. Some exert 
 
 Interest is an emotion (obviously). But contrary to popular belief, interest has as much to do with keeping people positive as it does with keeping them actively engaged.
 
-Interest teeters awfully close to the negative half of emotion. This means the slightest breeze of __negativity__, __rejection__, __abandonment__, __neglect__, and __deception__ can transform an actively interested person or team into a completely uninterested one. This is why [having a productive mindset]({{page.baseurl}}product-teams/#mindsets) is important among teams. It's also important to remember we're all human, and just like with death and taxes, you're certainly going to have bad days. Unfortunately, team members often come under fire when your emotions unload. Admitting that you overreacted and apologizing for your attack will not only remove any tension, it can bring teams closer together.
+Interest teeters awfully close to the negative half of emotion. This means the slightest breeze of __negativity__, __rejection__, __abandonment__, __neglect__, and __deception__ can transform an actively interested person or team into a completely uninterested one. This is why [having a productive mindset]({{page.baseurl}}teams/#mindsets) is important among teams. It's also important to remember we're all human, and just like with death and taxes, you're certainly going to have bad days. Unfortunately, team members often come under fire when your emotions unload. Admitting that you overreacted and apologizing for your attack will not only remove any tension, it can bring teams closer together.
 
 ### Knowledge
 
