@@ -122,39 +122,31 @@ See the example below.
 
 > Learn why defining investments help [allocate the right amount of effort](#investments) year-to-year.
 
----
-
-# Requirements
+### Requirements
 
 A great primer for defining your product all depends on the team. While you were peeling away the top layers of the Product Scaffold, you probably consulted a number of your peers for their expertise. Now that you've reached the Product layer, your peers have more skin in the game. As such, each person should contribute their work using a format that's suitable for their responsibilities.
 
 Most teams typically include (in alphabetical order):
 
-* [Engineers](#engineers)
-* [Product Architects](#architects)
-* [Product Managers](#product-managers)
-* [Project Managers](#project-managers)
-* [UI Designers](#ui-designers)
+* Architects
+* Engineers
+* Product Managers
+* Project Managers
+* UI Designers
 
-### Architects
-
-Architects draft their work in the form of diagrams and technical requirements. Well-documented requirements include:
+__Architects.__ Architects draft their work in the form of diagrams and technical requirements. Well-documented requirements include:
 
 1. ==Insert something here==
 2. ==Insert something here==
 3. ==Insert something here==
 
-### Engineers
-
-Engineers draft their work in the form of functional requirements. Well-documented requirements include:
+__Engineers.__ Engineers draft their work in the form of functional requirements. Well-documented requirements include:
 
 1. ==Insert something here==
 2. ==Insert something here==
 3. ==Insert something here==
 
-### Product Managers
-
-Product Managers draft their work in the form of product requirements. Well-documented requirements includes:
+__Product Managers.__ Product Managers draft their work in the form of product requirements. Well-documented requirements includes:
 
 1. Feasibility
 2. Deliverables
@@ -162,17 +154,13 @@ Product Managers draft their work in the form of product requirements. Well-docu
 4. Feature-Sets
 5. Milestones
 
-### Project Managers
-
-Project Managers draft their work in a number of different forms. Examples include:
+__Project Managers.__ Project Managers draft their work in a number of different forms. Examples include:
 
 * ==Insert something here==
 * ==Insert something here==
 * ==Insert something here==
 
-### UI Designers
-
-Designers draft their work in a number of different forms. Examples include:
+__UI Designers.__ UI Designers draft their work in a number of different forms. Examples include:
 
 1. Wireframes
 2. User research
