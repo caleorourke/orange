@@ -40,7 +40,6 @@ module.exports = function(grunt) {
         },
         src: ['vendors/transition.js',
               'vendors/collapse.js',
-              'vendors/highlight.js',
               'less/helpers/contents.js',
               'less/helpers/metabar.js',
               'less/helpers/scrolltop.js',
@@ -67,7 +66,7 @@ module.exports = function(grunt) {
           compress: false,
           banner: '<%= banner %>'
         },
-        src: ['less/hum.less'],
+        src: ['less/hatch.less'],
         dest: 'assets/css/main.min.css'
       },
       minify: {
