@@ -39,20 +39,21 @@ The table below shows what kind of traits you can expect from these mindsets.
 
 | Defensive | Productive |
 | --------- | ---------- |
+| Acts as a conduit | Acts as a conductor |
 | Alienates people | Attracts people |
 | Assumes | Questions |
 | Breaks rules | Changes rules |
 | Coercive | Helpful |
 | Complains | Creates |
-| Doubts success is possible | Believes success is possible |
+| Don't mind disrupting others | Limits disruptions |
 | Energy-zapping | Energy-generating |
-| Enjoys disrupting others | Limits disruptions |
 | Looks for problems | Looks for possibilities |
 | Points fingers | Finds causes |
 | Self-focused | Mission-focused |
 | Short-sighted | Forward-thinking |
 | Victim | Helper |
 | Wants to make it through the day | Wants to learn something new everyday |
+| Wonders if success is possible | Believes success is possible |
 | Worries about | Wonders if |
 
 ### The "Not Invented Here" Fallacy
