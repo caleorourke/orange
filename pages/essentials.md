@@ -193,7 +193,9 @@ By habit, team members often compare a new product with similar products they wo
 
 ### Responsibilities
 
-Job titles get in the way of things, especially high-ranking titles. Some exert their powers unintentionally, while others are just dicks. Whatever the case may be, responsibilities should be doled out by roles, not by job titles. This is why frameworks use roles, like Product Owner, Scrum Master, and Code Keeper, to describe what kind of input and output a person under that role should be producing. It also prevents people with high-ranking titles from offloading work that they should be doing.
+Job titles get in the way of things, especially high-ranking titles. Some exert their powers unintentionally, while others while others get some sinister pleasure out of rocking the boat. Whatever the case may be, responsibilities should be doled out by roles, not by job titles. This is why frameworks use roles, like Product Owner, Scrum Master, and Team Lead, to describe what kind of input and output a person under that role should be producing. It also prevents people with high-ranking titles from offloading work that they should be doing.
+
+> Eliminate confusion by putting your role, not your job title, in your email signature. For example, if your job title is Business Analyst, but your acting role is the Product Owner for mobile applications, put "Product Owner, Mobile Apps" in your signature. This way, new hires and transplanted team members know what purpose you serve.
 
 ### Interest
 
