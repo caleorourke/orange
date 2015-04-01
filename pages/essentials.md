@@ -2,7 +2,7 @@
 layout: pages
 title: Essentials
 tagline: Principles and constructs to pre-productize in a more Lean-ish manner.
-date: Feb 8, 2015
+date: Apr 1, 2015
 order: 2
 baseurl: "../../"
 ---
