@@ -1,11 +1,6 @@
----
-layout: pages
-title: Resources
-tagline: Tools for eager self-learners and like-minded doers.
-date: Mar 14, 2015
-order: 6
-baseurl: "../../"
----
+# Resources
+
+**Tools for eager self-learners and like-minded doers.**
 
 For those self-learners and like-minded doers, below is a collection of useful resources and tools. Anyone is welcome to contribute to this list. Just know that our intent is not to name every whiz-bang out there—only the ones you’re willing to put your seal of approval on. *Items are listed in alphabetical order.*
 

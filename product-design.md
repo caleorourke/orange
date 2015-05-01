@@ -1,12 +1,6 @@
----
-layout: pages
-heading: Product Design
-intro: Insert intro.
-date: Oct 13, 2014
-baseurl: "../../"
----
+# Product Design
 
-This page is a work-in-progress.
+**This page is a work-in-progress.**
 
 ---
 

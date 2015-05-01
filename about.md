@@ -1,11 +1,6 @@
----
-layout: pages
-title: About
-tagline: Shift focus toward creating better products.
-date: March 13, 2015
-order: 1
-baseurl: "../../"
----
+# About
+
+**Shift focus toward creating better products.**
 
 > "Life's too short to build something no one wants." --- Ash Maurya
 

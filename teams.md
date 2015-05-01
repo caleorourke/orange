@@ -1,11 +1,6 @@
----
-layout: pages
-title: Teams
-tagline: Working from a shared vision to make great products.
-date: Apr 1, 2015
-order: 5
-baseurl: "../../"
----
+# Teams
+
+**Working from a shared vision to make great products.**
 
 > "It all starts with a great idea and teamwork." --- Garrett Camp
 

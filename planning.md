@@ -1,11 +1,6 @@
----
-layout: pages
-title: Planning
-tagline: Transform strategic objectives into tactical inertia.
-date: Jan 31, 2015
-order: 4
-baseurl: "../../"
----
+# Planning
+
+**Transform strategic objectives into tactical inertia.**
 
 Even the simplest product can be a huge undertaking when you consider that it takes just one wrong turn to throw everything off course. But rather than trying to make course correction along the way, these sections help identify the best course in hopes of getting you there smoothly and intact.
 
@@ -85,7 +80,7 @@ Three approaches to iteration planning are "velocity-driven", "commitment-driven
 
 This demands that all teams, as a whole, have a quantitative, time-boxed, and consistent measurement of work effort. This is a sunny-day approach, though, that only works for small, normalized teams working on a single product. This won't work for a team that adds people routinely as the project gains traction internally.
 
-The "snowball effect" is a good way to illustrate this. As it rolls, the ball picks up more snow, gains more mass and surface area, and continues to pick up more snow and momentum as it rolls along. The key here is __momentum__. In physics, momentum `p` is mass `m` times velocity `v`, or `p=mv`. As the team grows and shrinks in size, it impacts both momentum and velocity. 
+The "snowball effect" is a good way to illustrate this. As it rolls, the ball picks up more snow, gains more mass and surface area, and continues to pick up more snow and momentum as it rolls along. The key here is __momentum__. In physics, momentum `p` is mass `m` times velocity `v`, or `p=mv`. As the team grows and shrinks in size, it impacts both momentum and velocity.
 
 To put it another way:
 

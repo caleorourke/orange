@@ -1,11 +1,6 @@
----
-layout: pages
-title: Essentials
-tagline: Principles and constructs to pre-productize in a more Lean-ish manner.
-date: Apr 1, 2015
-order: 2
-baseurl: "../../"
----
+# Essentials
+
+**Principles and constructs to pre-productize in a more Lean-ish manner.**
 
 > "Success is the ability to go from failure to failure without losing your enthusiasm." --- Sir Winston Churchill
 

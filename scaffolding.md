@@ -1,11 +1,6 @@
----
-layout: pages
-title: Scaffolding
-tagline: High-level initiatives and objectives for new products.
-date: Oct 18, 2014
-order: 3
-baseurl: "../../"
----
+# Scaffolding
+
+**High-level initiatives and objectives for new products.**
 
 > "The winning army realizes the conditions for victory first, then fights. The losing army fights first, then seeks victory." --- Sun Tsu
 
