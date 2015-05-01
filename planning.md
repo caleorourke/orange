@@ -59,7 +59,7 @@ Gathering all the requirements up-front and having them set in stone condemns th
 
 ### Risks
 
-_Some people really do search for reasons to block a project like there's some reward for it_. However, the {{site.github.title}} discourages the kinds of ceremonial brainstorming sessions where everyone discusses every possible risks before work can start. Instead, with a more adaptive approach, you should:
+_Some people really do search for reasons to block a project like there's some reward for it_. However, Orange discourages the kinds of ceremonial brainstorming sessions where everyone discusses every possible risks before work can start. Instead, with a more adaptive approach, you should:
 
 * Monitor activity regularly throughout the release
 * Ask about potential risks when you sync with your team

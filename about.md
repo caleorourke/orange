@@ -8,9 +8,9 @@ Many of us in the field of product development realize that creating products ha
 
 ---
 
-# What is the {{site.github.title}}?
+# What is Orange?
 
-The {{site.github.title}} pushes products beyond the traditional boundaries of a project---starting from ideation, to development, to adoption, to incremental improvement. It derives from the bits of several methods:
+Orange pushes products beyond the traditional boundaries of a project---starting from ideation, to development, to adoption, to incremental improvement. It derives from the bits of several methods:
 
 * Lean/Kanban
 * Agile/Scrum
@@ -19,7 +19,7 @@ The {{site.github.title}} pushes products beyond the traditional boundaries of a
 
 ### Prototyping to Delivery
 
-At its core, {{site.github.title}} places emphasis on __prototyping__, __balanced teams__, __customer discovery__, and __reduced cycles__, with the intent of:
+At its core, Orange places emphasis on __prototyping__, __balanced teams__, __customer discovery__, and __reduced cycles__, with the intent of:
 
 * Clearly defining how we manage products through their lifecycles
 * Incrementally adding new practices and workflows
@@ -31,7 +31,7 @@ At its core, {{site.github.title}} places emphasis on __prototyping__, __balance
 
 ### A Living Charter
 
-Do note that nothing here is set in stone. This as a "living" charter. As we continue to learn more about our industry and ourselves, the {{site.github.title}} will evolve.
+Do note that nothing here is set in stone. This as a "living" charter. As we continue to learn more about our industry and ourselves, Orange will evolve.
 
 ---
 

@@ -136,7 +136,7 @@ Twelve essential constructs provide a basic template for creating new practices.
 
 # Introducing New Processes
 
-Transforming processes is fundamental to the {{site.github.title}}. Each one needs to be built on the premise of having __visibility__, __consistency__, and __boundaries__. Once you have those in place, then it's just a matter of defining, testing, reworking, and adopting them incrementally to improve your way of working.
+Transforming processes is fundamental to Orange. Each one needs to be built on the premise of having __visibility__, __consistency__, and __boundaries__. Once you have those in place, then it's just a matter of defining, testing, reworking, and adopting them incrementally to improve your way of working.
 
 To get started, first you'll need to:
 
