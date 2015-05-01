@@ -1,9 +1,4 @@
-_site/
-node_modules/
 .DS_Store
 Desktop.ini
 Thumbs.db
-Gemfile.lock
-validation-*.json
 *~
-*.log
