@@ -1,3 +1,9 @@
+Quote:
+
+> "By visualizing information, we turn it into a landscape that you can explore with your eyes, a sort of information map. And when you're lost in information, an information map is kind of useful." --- Information designer, David McCandless
+
+---
+
 9. If something "doesn't make sense", it's no excuse to get in someone's way.
 10. Blame is just a coercive way of regaining control over something you lost control of.
 12. Just because letting in one idea might invite other less pleasing ideas doesn't mean you should instantly reject it.
